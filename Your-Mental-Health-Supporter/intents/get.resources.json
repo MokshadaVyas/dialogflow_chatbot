@@ -1,0 +1,44 @@
+{
+  "id": "0b231c6b-317b-43dc-a940-f09059710746",
+  "name": "get.resources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "end-conversation",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "National Alliance on Mental Illness (NAMI) - A great organization that offers support, education, and advocacy for mental health.",
+            "MentalHealth.gov - Provides information on mental health and how to get help.",
+            "SAMHSA\u0027s National Helpline - A confidential, free, 24/7 information service for individuals and family members facing mental health or substance use disorders.\nIf you have specific needs, let me know!\"",
+            "National Suicide Prevention Lifeline - Call 1-800-273-TALK (1-800-273-8255) for 24/7, free, and confidential support.",
+            "Crisis Text Line - Text \"HELLO\" to 741741 for 24/7 support from a trained crisis counselor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

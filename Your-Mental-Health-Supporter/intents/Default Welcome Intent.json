@@ -1,0 +1,41 @@
+{
+  "id": "a4739ead-f0e5-4ba8-af59-ec8cf3001fc0",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there! I’m here to support you. How are you feeling today? Feel free to share anything that\u0027s on your mind.",
+            "Hello! It’s great to see you. How can I help you today? If you want to talk about your feelings, I\u0027m all ears!",
+            "Good day! I’m here for you. What’s been going on? If you’d like to share how you’re feeling, I’m ready to listen!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

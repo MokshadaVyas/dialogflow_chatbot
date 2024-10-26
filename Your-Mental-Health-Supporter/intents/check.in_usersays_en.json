@@ -1,0 +1,249 @@
+[
+  {
+    "id": "f97f261f-da14-4a74-8861-92722286b466",
+    "data": [
+      {
+        "text": "i need your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc1da711-99ad-49b6-8891-753e8d0c1ee1",
+    "data": [
+      {
+        "text": "i am going through something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ec0cf27-b5cc-4f4a-ba38-1d268a042cb4",
+    "data": [
+      {
+        "text": "i am unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb2947d5-f2cc-4521-bbce-d10c0b5314b7",
+    "data": [
+      {
+        "text": "i am feeling very sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45efe795-3c14-4b26-b4c2-94ec66a54cc8",
+    "data": [
+      {
+        "text": "i am not good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e6fd8c0-438d-4c5d-b2c8-0fd27ab6c103",
+    "data": [
+      {
+        "text": "I am so unwell, can you please check my mental health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d9a0115-ef5c-485a-a06f-e00c253d1301",
+    "data": [
+      {
+        "text": "i want to check my mental health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cf6c118-da1e-4624-8411-9b3c51d99f28",
+    "data": [
+      {
+        "text": "i am not in a mood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "495fe175-676e-4618-9953-d90c81a234fc",
+    "data": [
+      {
+        "text": "I am not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7379a8d2-15a8-4de5-97ba-df3fb5ca61a6",
+    "data": [
+      {
+        "text": "I want to discuss how I\u0027m feeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d97e8e65-f342-4429-8b67-9172d05a1318",
+    "data": [
+      {
+        "text": "Can you help me with my feelings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ec1560f-40f4-4e25-8478-fc08d7bb8013",
+    "data": [
+      {
+        "text": "Can I share my feelings with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f5cdd18-d6c1-4924-8f8e-eac4698883df",
+    "data": [
+      {
+        "text": "Help me reflect on my feelings.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40e71abd-91bf-47d8-bb02-b593086dd20a",
+    "data": [
+      {
+        "text": "I\u0027d like to see how I\u0027m feeling.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d740db9c-e70e-48ca-ad84-7834f0faf9da",
+    "data": [
+      {
+        "text": "Can we check in on my emotions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c125620b-441b-4b3d-a6d5-f0acfc90c23c",
+    "data": [
+      {
+        "text": "Let\u0027s do a mood check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66fcb96c-9c88-455d-b56d-9b49d3bed3ca",
+    "data": [
+      {
+        "text": "I need to talk about my mood.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19883068-4c01-459d-becd-a54362b0152c",
+    "data": [
+      {
+        "text": "Can you ask me how I\u0027m feeling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf89ad86-db6f-4670-ab85-2966e208b531",
+    "data": [
+      {
+        "text": "I want to check in on my feelings.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

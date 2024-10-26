@@ -1,0 +1,385 @@
+[
+  {
+    "id": "09ef481f-d004-4523-bda7-771baee99df0",
+    "data": [
+      {
+        "text": "i failed my exams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b0b9d6d-d6fc-45f1-aea0-0f64a13284e8",
+    "data": [
+      {
+        "text": "i am feeling so bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ffef43e-60be-4337-8b78-0d0d523bb736",
+    "data": [
+      {
+        "text": "i am going through something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df7dd6bf-adcd-47eb-977b-409fcc19120d",
+    "data": [
+      {
+        "text": "i can not sleep at ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e733e78-46dd-4730-8ae1-1e20db6080b9",
+    "data": [
+      {
+        "text": "i have anxiety problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80904c80-b35d-418a-a7cd-46e5d79546a2",
+    "data": [
+      {
+        "text": "i am in depression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed5d0c8-47e3-4cb1-92e5-b81fb9ce9c6d",
+    "data": [
+      {
+        "text": "My loved ones died",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ff414a-5220-4aac-b1c1-3839d7a2c091",
+    "data": [
+      {
+        "text": "i had a failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85f2c716-766a-4625-81a0-b8e34a8d3c42",
+    "data": [
+      {
+        "text": "I can\u0027t deal with anything right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0008de88-420d-4680-9b63-7c17c53f8942",
+    "data": [
+      {
+        "text": "I have some job related issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fdb7ef3-9600-44ee-bfac-4eee11898a23",
+    "data": [
+      {
+        "text": "i broke up with my boyfriend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2858d885-9362-4513-8f93-d943834d07ec",
+    "data": [
+      {
+        "text": "i have some family issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49643262-c329-4f44-8f5a-cbb50dd601a3",
+    "data": [
+      {
+        "text": "i am dealing with some issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6af2e9e-08f1-4515-bc1e-0a0d15628c73",
+    "data": [
+      {
+        "text": "i can\u0027t handle my mood swings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c1e63db-a667-4754-9fe4-9e3a24c487c1",
+    "data": [
+      {
+        "text": "I want to give up on life, don\u0027t want to live anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2feaae94-94a1-463f-92de-e6b76cdd2b36",
+    "data": [
+      {
+        "text": "Life is just so stressful right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bce20ff2-60dc-47c8-9a19-fe66c9b9809e",
+    "data": [
+      {
+        "text": "I feel okay, just a bit anxious.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c8d8958-007c-42a7-9cb4-f731eaf26e19",
+    "data": [
+      {
+        "text": "I\u0027m worried about the future",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fecd9f38-015b-488a-9a74-18616a2a5143",
+    "data": [
+      {
+        "text": "I don\u0027t want to talk about it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "248bed9f-5c82-48e9-a07c-11016caf93f4",
+    "data": [
+      {
+        "text": "I feel like I can\u0027t cope anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2ce6c02-4a94-4a87-b6f3-cbb3b3456b8b",
+    "data": [
+      {
+        "text": "I\u0027m just tired of everything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e34872e2-8c72-4be9-a600-6be5641e3645",
+    "data": [
+      {
+        "text": "I\u0027m really happy right now!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9203111e-adf6-42d3-a87a-6befd9edc312",
+    "data": [
+      {
+        "text": "I\u0027m frustrated about my situation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0f31b16-fe7a-4146-a532-d7ab98573e2c",
+    "data": [
+      {
+        "text": "I feel a bit better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99596b75-af21-4c6c-9a40-10460d8a81e6",
+    "data": [
+      {
+        "text": "I\u0027m having a hard time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77bdea3d-f3d5-43d0-8cd7-81b3645aa90c",
+    "data": [
+      {
+        "text": "Everything feels overwhelming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e8b08b0-c519-4944-9c6d-9cf621af4791",
+    "data": [
+      {
+        "text": "I just feel so lost.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c78c2dcd-8c35-4a71-9bc9-ab810a645915",
+    "data": [
+      {
+        "text": "I\u0027m feeling really down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98031d41-43ec-41f6-86be-419c0554ae75",
+    "data": [
+      {
+        "text": "I don\u0027t know how I feel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

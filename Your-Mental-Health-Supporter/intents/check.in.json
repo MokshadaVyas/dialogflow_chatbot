@@ -1,0 +1,45 @@
+{
+  "id": "63a176a5-5af7-4da6-8721-9ada6c9a7eca",
+  "name": "check.in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "in-conversation",
+          "lifespan": 7
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m here to listen. You can tell me more about what\u0027s bothering you. For instance, you can say, \u0027I feel anxious about work\u0027 or \u0027I\u0027m sad because of a friend.\u0027 What’s on your mind?",
+            "I’m glad you reached out. Can you tell me what’s been making you feel unwell? Are there specific emotions or situations you want to discuss?",
+            "It’s okay to feel that way. Can you describe what emotions you’re experiencing? Is it stress, sadness, or something else?",
+            "Thank you for sharing that with me. Would you like to talk about ways to cope with what you’re feeling, or maybe explore some relaxation techniques?",
+            "Thank you for letting me know. If you feel comfortable, could you share what events or thoughts might be contributing to how you\u0027re feeling?",
+            "I’m here for you. Can you tell me more about why you’re not feeling well? What’s been on your mind lately?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

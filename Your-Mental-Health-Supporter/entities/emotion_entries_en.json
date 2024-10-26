@@ -1,0 +1,68 @@
+[
+  {
+    "value": "Lost",
+    "synonyms": [
+      "confused",
+      "disoriented"
+    ]
+  },
+  {
+    "value": "Anxious",
+    "synonyms": [
+      "nervous",
+      "worried",
+      "uneasy"
+    ]
+  },
+  {
+    "value": "Happy",
+    "synonyms": [
+      "Happy",
+      "joyful",
+      "content",
+      "pleased"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "unhappy",
+      "sorrowful",
+      "down"
+    ]
+  },
+  {
+    "value": "Overwhelmed",
+    "synonyms": [
+      "Overwhelmed",
+      "Stressed",
+      "burdened"
+    ]
+  },
+  {
+    "value": "Angry",
+    "synonyms": [
+      "Angry",
+      "Mad",
+      "Frustrated",
+      "irritated"
+    ]
+  },
+  {
+    "value": "Lonely",
+    "synonyms": [
+      "Lonely",
+      "alone",
+      "forlone"
+    ]
+  },
+  {
+    "value": "Confused",
+    "synonyms": [
+      "Confused",
+      "buffled",
+      "unclear"
+    ]
+  }
+]

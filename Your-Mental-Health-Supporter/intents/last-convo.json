@@ -1,0 +1,38 @@
+{
+  "id": "dd6b2fe8-038c-4cdc-9c6c-4657a9669fb3",
+  "name": "last-convo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, no problem! If you ever want to talk or need assistance, I\u0027m here for you. Take care!",
+            "Alright! If you have any more questions in the future, feel free to reach out. Goodbye for now!",
+            "That’s totally fine! I’m glad we could chat. Wishing you all the best. Goodbye!",
+            "Understood! It was nice talking to you. Remember, you can always come back if you need anything. Goodbye!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

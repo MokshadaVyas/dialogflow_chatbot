@@ -1,0 +1,45 @@
+{
+  "id": "7cacbd69-0696-491c-b0a3-917f4a64c185",
+  "name": "share.tips",
+  "auto": true,
+  "contexts": [
+    "providing_tips"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "in_tips_provided",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Absolutely! Here are a few things that might help: Try talking to someone you trust, go for a walk in nature, or take some time to do something you enjoy. Do you need any resources?(Yes/No)",
+            "I’m glad you’re open to some tips! Consider practicing mindfulness or deep breathing. You could also try writing down your feelings. It can be really helpful to express what you’re going through. Do you need any resources?(Yes/No)",
+            "Of course! Here are some suggestions: take a break to relax, do some light exercise, or listen to music that makes you feel good. Do you need any resources?(Yes/No)",
+            "Great to hear you’re looking for tips! You might find it helpful to set small, manageable goals for your day. Also, don’t hesitate to reach out to a friend or loved one to talk about how you’re feeling. Do you need any resources?(Yes/No)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

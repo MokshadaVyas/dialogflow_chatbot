@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Tips",
+    "synonyms": [
+      "Tips",
+      "advise",
+      "suggestion",
+      "guidance"
+    ]
+  },
+  {
+    "value": "Listening",
+    "synonyms": [
+      "Listening",
+      "ear",
+      "support",
+      "companionship"
+    ]
+  },
+  {
+    "value": "resource",
+    "synonyms": [
+      "resource",
+      "materials",
+      "tools"
+    ]
+  }
+]

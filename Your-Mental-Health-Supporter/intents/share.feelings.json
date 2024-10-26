@@ -1,0 +1,59 @@
+{
+  "id": "5b7c28c5-d63c-4331-bdf9-0255c3c3c7db",
+  "name": "share.feelings",
+  "auto": true,
+  "contexts": [
+    "in-conversation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "providing_tips",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ecebe8ab-c886-4739-a8de-9256d3942eb2",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for sharing that with me. It’s completely okay to feel this way. If you’d like, I can offer some tips to help you cope. JUST TYPE (I need some tips).",
+            "I appreciate your honesty. Whatever you’re feeling is valid. If you’re interested, I can share some strategies to help you manage those feelings. JUST TYPE (I need some tips).",
+            "I’m here for you. It sounds like you’re going through a lot right now. If you think tips might help, just let me know and I can provide some! JUST TYPE (I need some tips)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

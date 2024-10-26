@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4945e593-7564-45dd-9829-30bd59526f79",
+    "data": [
+      {
+        "text": "I don\u0027t want to talk about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68fb197f-00fa-4f2f-af08-9a668b379e00",
+    "data": [
+      {
+        "text": "I feel hopeless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2faabefb-8eda-4d7b-b224-c29327437680",
+    "data": [
+      {
+        "text": "Nothing works for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7314e79-1160-454c-8281-cff8f2d5e85b",
+    "data": [
+      {
+        "text": "I just want to be alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4da59c0-7177-47b2-a395-2a4e20abf7aa",
+    "data": [
+      {
+        "text": "I don\u0027t think anything can help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

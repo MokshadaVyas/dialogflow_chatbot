@@ -1,0 +1,57 @@
+{
+  "id": "1e124bf8-1c8a-4791-8cb6-a1bbfabd312e",
+  "name": "end-convo",
+  "auto": true,
+  "contexts": [
+    "end-conversation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8934d3a-ba31-4413-a455-40143ff96d3e",
+          "name": "support_type",
+          "required": false,
+          "dataType": "@support_type",
+          "value": "$support_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m happy I could assist! Would you like any additional resources before we wrap up?",
+            "I’m really glad I could help! Is there anything else you\u0027d like to explore, maybe some more resources?",
+            "I\u0027m glad to have been here for you. Would you like any other helpful resources before we finish?",
+            "I\u0027m so glad I could assist you. Is there anything else you\u0027d like, maybe more resources?",
+            "It’s been great supporting you! Need any more resources before we say goodbye?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

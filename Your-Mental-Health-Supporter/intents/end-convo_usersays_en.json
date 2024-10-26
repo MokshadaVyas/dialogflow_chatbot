@@ -1,0 +1,219 @@
+[
+  {
+    "id": "7a212d99-d28a-4475-bbac-5c3f4022f3b8",
+    "data": [
+      {
+        "text": "thank you for your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07d23c79-c03e-48b2-a11a-fe1e9082b9ff",
+    "data": [
+      {
+        "text": "thanks for your help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c03dbf8-26d1-4a5a-8b53-26169fbb86e5",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f6f973-4aca-455c-8902-a0b88561e993",
+    "data": [
+      {
+        "text": "See you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a04401e-1afc-44eb-a33f-2d20c773e3a6",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f94bab7d-e310-4555-9d61-179bb2ade274",
+    "data": [
+      {
+        "text": "Good bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34f82543-31c4-48ee-8609-915c1479490c",
+    "data": [
+      {
+        "text": "Done",
+        "meta": "@support_type",
+        "alias": "support_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1327cb9c-74d3-4f5c-8385-f53c8e7d2499",
+    "data": [
+      {
+        "text": "Thank you so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e6e79d8-e879-4119-a17f-25c4c1a89335",
+    "data": [
+      {
+        "text": "okay, thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1dd890c-3f7f-45b0-9f43-84228541b488",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3af6dd8a-77b4-464a-ab40-b32ab269188d",
+    "data": [
+      {
+        "text": "Thanks for ",
+        "userDefined": false
+      },
+      {
+        "text": "listening",
+        "meta": "@support_type",
+        "alias": "support_type",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9286a7b-b809-475d-b949-18abbb726c33",
+    "data": [
+      {
+        "text": "I appreciate your help, but I have to go.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32f122b8-672c-4046-beba-e31bebceb2d6",
+    "data": [
+      {
+        "text": "I think I\u0027m good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21ff277-e415-4fe0-9e5d-ed506e15d230",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "done",
+        "meta": "@support_type",
+        "alias": "support_type",
+        "userDefined": false
+      },
+      {
+        "text": " for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e64d917f-009a-47ed-aa06-fbe5ec5e40e0",
+    "data": [
+      {
+        "text": "Thanks, that\u0027s all I needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

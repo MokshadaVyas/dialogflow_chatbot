@@ -1,0 +1,43 @@
+{
+  "id": "feb7ca74-a06b-4a7d-a03c-6008ad2046ed",
+  "name": "share.tips-negative",
+  "auto": true,
+  "contexts": [
+    "in_conversation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "in_tips_provided",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand that it feels tough right now, and that’s okay. I’m here to listen if you want to share more",
+            "It sounds like you’re really overwhelmed, and that’s completely valid. If you prefer to just talk, I’m here for you"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
