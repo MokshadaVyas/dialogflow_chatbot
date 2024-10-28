@@ -17,7 +17,7 @@
       ],
       "parameters": [
         {
-          "id": "ecebe8ab-c886-4739-a8de-9256d3942eb2",
+          "id": "53bba7fc-78f4-4dd3-b741-1690342341c7",
           "name": "time-period",
           "required": false,
           "dataType": "@sys.time-period",
@@ -38,9 +38,9 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Thanks for sharing that with me. It’s completely okay to feel this way. If you’d like, I can offer some tips to help you cope. JUST TYPE (I need some tips).",
-            "I appreciate your honesty. Whatever you’re feeling is valid. If you’re interested, I can share some strategies to help you manage those feelings. JUST TYPE (I need some tips).",
-            "I’m here for you. It sounds like you’re going through a lot right now. If you think tips might help, just let me know and I can provide some! JUST TYPE (I need some tips)."
+            "Thanks for sharing that with me. It’s completely okay to feel this way. If you’d like, I can offer some tips to help you cope. JUST TYPE--\u0027\u0027I need some tips\u0027\u0027.",
+            "I appreciate your honesty. Whatever you’re feeling is valid. If you’re interested, I can share some strategies to help you manage those feelings. JUST TYPE --\u0027\u0027I need some tips\u0027\u0027.",
+            "I’m here for you. It sounds like you’re going through a lot right now. If you think some tips could help, JUST TYPE --\u0027\u0027I need some tips\u0027\u0027."
           ],
           "condition": ""
         }

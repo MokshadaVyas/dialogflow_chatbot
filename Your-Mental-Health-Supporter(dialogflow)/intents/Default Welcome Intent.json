@@ -16,9 +16,10 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Hi there! I’m here to support you. How are you feeling today? Feel free to share anything that\u0027s on your mind.",
+            "Hi there! I\u0027m here to listen. You can share how you\u0027re feeling today. For example, you might say, \u0027I’ve been feeling anxious lately.\u0027 What’s on your mind?",
             "Hello! It’s great to see you. How can I help you today? If you want to talk about your feelings, I\u0027m all ears!",
-            "Good day! I’m here for you. What’s been going on? If you’d like to share how you’re feeling, I’m ready to listen!"
+            "Good day! I’m here for you. What’s been going on? If you’d like to share how you’re feeling, I’m ready to listen!",
+            "Hello there! I’m your mental health supporter. Please share what you’re going through. I’m here to listen and help"
           ],
           "condition": ""
         }
